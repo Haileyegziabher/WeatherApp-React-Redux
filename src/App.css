@@ -1,0 +1,27 @@
+.container{
+  padding:20px;
+  margin: 20px;
+}
+#content{
+  color:rgb(0, 0, 0);
+  text-align : center;
+  background-image: linear-gradient(rgba(102, 66, 201, 0.267), white,#8cdde3);
+  margin: auto;
+}
+h1,h2{
+  text-align:center;
+}
+.jumbotron {
+  margin: 0;
+  padding: 30px;
+  background-image: linear-gradient(to right, #37bcdd, #08176e, #b212c7);
+  color: white; }
+
+  #card {
+    background-image: linear-gradient(to right, #071013, #07383a, #07385f);
+  }
+
+  h2{
+    font-weight: 700;
+    color:#2e7885;
+  }
